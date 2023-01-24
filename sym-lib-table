@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "footprints_nordic")(type "KiCad")(uri "${KIPRJMOD}/symbols_nordic/footprints_nordic.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP25625-E_ML")(type "KiCad")(uri "${KIPRJMOD}/MCP25625-E_ML.kicad_sym")(options "")(descr ""))
+  (lib (name "LMZ21700SILR")(type "KiCad")(uri "${KIPRJMOD}/LMZ21700SILR.kicad_sym")(options "")(descr ""))
+)
