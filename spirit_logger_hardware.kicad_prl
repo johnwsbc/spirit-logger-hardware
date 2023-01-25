@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 41,
-    "active_layer_preset": "All Layers",
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "ffff7ff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "nrf5340_qkaa_rev1_sensor.kicad_prl",
+    "filename": "spirit_logger_hardware.kicad_prl",
     "version": 3
   },
   "project": {

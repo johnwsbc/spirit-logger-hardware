@@ -486,7 +486,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "nrf5340_qkaa_rev1_sensor.kicad_pro",
+    "filename": "spirit_logger_hardware.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -518,10 +518,7 @@
         "microvia_diameter": 0.1524,
         "microvia_drill": 0.1016,
         "name": "USB",
-        "nets": [
-          "/D*_N",
-          "/D*_P"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.127,
