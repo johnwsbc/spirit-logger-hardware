@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "MCU_Nordic_Accessory")(type "KiCad")(uri "${KIPRJMOD}/footprints_nordic/footprints_nordic_accessory.pretty")(options "")(descr ""))
+  (lib (name "MCU_Nordic_Custom")(type "KiCad")(uri "${KIPRJMOD}/footprints_nordic/footprints_nordic.pretty")(options "")(descr ""))
+)
