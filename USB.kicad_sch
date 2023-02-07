@@ -1179,7 +1179,6 @@
     )
   )
 
-
   (junction (at 154.5844 151.3332) (diameter 0) (color 0 0 0 0)
     (uuid 03a93f73-c429-415e-9593-1018e356c12b)
   )
@@ -2147,10 +2146,10 @@
     (uuid a1cb6e82-4cd9-400d-a694-3a2a60f37a6f)
     (property "Reference" "J3" (id 0) (at 133.604 109.5334 0))
     (property "Value" "USB_C_Receptacle" (id 1) (at 133.604 112.0703 0))
-    (property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal" (id 2) (at 137.414 141.1732 0)
+    (property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A" (id 2) (at 137.414 141.1732 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 137.414 141.1732 0)
+    (property "Datasheet" "" (id 3) (at 137.414 141.1732 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "A1" (uuid 8e5bee88-bea5-4efc-8fbd-e1b9e3a24a8b))

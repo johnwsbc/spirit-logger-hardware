@@ -1141,7 +1141,6 @@
     )
   )
 
-
   (junction (at 147.828 139.8016) (diameter 0) (color 0 0 0 0)
     (uuid 09d0d620-1782-4f93-a959-423f2ee2b32b)
   )
@@ -3633,9 +3632,6 @@
     (path "/9666bb6a-0c1d-4c92-be6d-94a465ec5c51/15379776-fc81-4496-92bc-4223b3f1d0d0"
       (reference "#PWR05") (unit 1) (value "GND") (footprint "")
     )
-    (path "/9666bb6a-0c1d-4c92-be6d-94a465ec5c51/838e7def-fddb-4c24-8f40-6ff83da15aa4"
-      (reference "#PWR06") (unit 1) (value "VDD") (footprint "")
-    )
     (path "/9666bb6a-0c1d-4c92-be6d-94a465ec5c51/247f1da1-db67-434e-94f9-51d78e446b3e"
       (reference "#PWR07") (unit 1) (value "GND") (footprint "")
     )
@@ -3958,7 +3954,7 @@
       (reference "J2") (unit 1) (value "PicoBlade") (footprint "Connector_Molex:Molex_PicoBlade_53261-0571_1x05-1MP_P1.25mm_Horizontal")
     )
     (path "/cec0ac2b-8788-4205-bc11-fcadefc26e0e/a1cb6e82-4cd9-400d-a694-3a2a60f37a6f"
-      (reference "J3") (unit 1) (value "USB_C_Receptacle") (footprint "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal")
+      (reference "J3") (unit 1) (value "USB_C_Receptacle") (footprint "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A")
     )
     (path "/56a6f58d-6279-4cb2-a483-e4d38c4b806e"
       (reference "JP1") (unit 1) (value "TERM") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
