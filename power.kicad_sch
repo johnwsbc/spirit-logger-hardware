@@ -1479,7 +1479,7 @@
     (property "Value" "3.3n" (at 123.7234 139.827 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MCU_Nordic_Accessory:C_0201" (at 121.7676 142.494 0)
+    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (at 121.7676 142.494 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 120.8024 138.684 0)
