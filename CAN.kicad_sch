@@ -5,10 +5,11 @@
   (paper "A4")
 
   (title_block
-    (title "Spirit Logger")
-    (date "2023-01-23")
+    (title "CAN")
+    (date "2023-02-28")
     (rev "0")
     (company "Specialized Europe GmbH")
+    (comment 1 "J.Whittington 2023")
   )
 
   (lib_symbols
@@ -861,7 +862,7 @@
     (property "Footprint" "tuna-f1sh/jbr-kicad/QFN.pretty:QFN-28L" (at 127.762 76.454 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "Datasheet" "" (at 127.762 76.454 0)
+    (property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/MCP25625-CAN-Controller-Data-Sheet-20005282C.pdf" (at 127.762 76.454 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "MFN" "Microchip Technology" (at 127.762 76.454 0)

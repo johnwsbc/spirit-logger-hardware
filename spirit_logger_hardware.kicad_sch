@@ -6,9 +6,10 @@
 
   (title_block
     (title "Spirit Logger")
-    (date "2023-01-23")
+    (date "2023-02-28")
     (rev "0")
     (company "Specialized Europe GmbH")
+    (comment 1 "J.Whittington 2023")
   )
 
   (lib_symbols

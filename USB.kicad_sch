@@ -5,10 +5,11 @@
   (paper "A3")
 
   (title_block
-    (title "Spirit Logger")
-    (date "2023-01-23")
+    (title "USB")
+    (date "2023-02-28")
     (rev "0")
     (company "Specialized Europe GmbH")
+    (comment 1 "J.Whittington 2023")
   )
 
   (lib_symbols
@@ -1178,6 +1179,7 @@
       )
     )
   )
+
 
   (junction (at 161.544 58.9788) (diameter 0) (color 0 0 0 0)
     (uuid 0d595765-d6c0-4b11-b6bf-c22f7513488d)

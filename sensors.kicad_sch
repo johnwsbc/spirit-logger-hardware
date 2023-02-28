@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Sensors")
+    (date "2023-02-28")
+    (rev "0")
+    (company "Specialized Europe GmbH")
+    (comment 1 "J.Whittington 2023")
+  )
+
   (lib_symbols
     (symbol "Connector:TestPoint_Small" (pin_numbers hide) (pin_names (offset 0.762) hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 0 3.81 0)
