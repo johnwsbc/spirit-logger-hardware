@@ -3,6 +3,10 @@ PROJECT_NAME = spirit_logger_hardware
 # Directory containing PROJECT_NAME.kicad_* files
 PROJECT_ROOT = .
 
+REVISION = 0
+
+BOM_CMD_FLAGS = --cfg $(PROJECT_ROOT)/bom.ini
+
 # Location of KiCad Makefile repository if not defined in environment
 # KICADMK_DIR = ./kicad-makefile
 
